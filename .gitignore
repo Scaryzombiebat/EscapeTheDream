@@ -1,0 +1,20 @@
+# Ignore the binaries folder
+Binaries/
+
+# Ignore the build folder
+Build/
+
+# Ignore intermediate files
+Intermediate/
+
+# Ignore the saved folder (contains auto-saves and other data)
+Saved/
+
+# Ignore the .vs folder (Visual Studio specific settings)
+.vs/
+
+# Ignore configuration files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
